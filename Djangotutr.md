@@ -70,3 +70,18 @@ views
 
 ![django14](https://user-images.githubusercontent.com/92988781/168086671-4ae9f5ab-1d4e-4bed-bc1b-9740fd443c2a.png)
 
+- TEMPLATES
+
+Menggunakan templates lebih memanjakan mata dan membuat codingan lebih rapi dan memudahkan programmer membuat banyak file html.
+
+membuat file html di folder templates (baru buat).
+
+![django15](https://user-images.githubusercontent.com/92988781/168091044-e93a0f3e-485d-438b-ad26-81c94a25c845.png)
+
+mengatur program di views
+
+![django16](https://user-images.githubusercontent.com/92988781/168091174-53c8943e-9ae6-4503-a7a6-ca36cde74a46.png)
+
+tampilan
+
+![django17](https://user-images.githubusercontent.com/92988781/168091270-7dc02519-f359-480c-b70a-41cac45f359e.png)
