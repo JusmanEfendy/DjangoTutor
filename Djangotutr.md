@@ -85,3 +85,4 @@ mengatur program di views
 tampilan
 
 ![django17](https://user-images.githubusercontent.com/92988781/168091270-7dc02519-f359-480c-b70a-41cac45f359e.png)
+
