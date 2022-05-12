@@ -42,3 +42,10 @@ APPS adalah aplikasi pada django yang mempunyai model database, view template, d
 membuat APPS
 
 ![django8](https://user-images.githubusercontent.com/92988781/168030223-d6d8c03e-1052-4658-a199-f82ad33c8ec6.png)
+
+isi dari folder apps yang sudah dibuat tadi
+
+![django9](https://user-images.githubusercontent.com/92988781/168030998-7e956f10-24e0-4aaa-83a3-072df03a5a05.png)
+
+
+- Membuat Views
