@@ -20,3 +20,7 @@ maka akan otomatis muncul folder myperpus seperti dibawah
 
 ![django4](https://user-images.githubusercontent.com/92988781/167987843-2f13e1a4-9028-4058-86c7-4f5c821c3cd9.png)
 
+ketik perintah 'python manage.py runserver' untuk menjalankan host server untuk memulai dan mengambil alamat project
+
+![django5](https://user-images.githubusercontent.com/92988781/167988411-53e80e4b-069f-4f5d-af41-eb4955000d8d.png)
+
