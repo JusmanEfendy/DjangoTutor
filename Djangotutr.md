@@ -24,3 +24,5 @@ ketik perintah 'python manage.py runserver' untuk menjalankan host server untuk 
 
 ![django5](https://user-images.githubusercontent.com/92988781/167988411-53e80e4b-069f-4f5d-af41-eb4955000d8d.png)
 
+- Basic Routing
+
