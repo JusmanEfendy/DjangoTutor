@@ -49,3 +49,24 @@ isi dari folder apps yang sudah dibuat tadi
 
 
 - Membuat Views
+
+Membuat views di folder myperpustakaan
+
+![django10](https://user-images.githubusercontent.com/92988781/168084186-abe213b3-3199-4036-a5e7-92d3bd873120.png)
+
+lalu di panggil di myperpus urls
+
+![django11](https://user-images.githubusercontent.com/92988781/168084548-37c03294-a849-4c5f-ba5d-f5a8b2f8787d.png)
+
+program terlihat lebih simpel.
+
+membuat views baru yang bernama penerbit
+
+![django12](https://user-images.githubusercontent.com/92988781/168086558-77da2b6c-1374-4846-a44b-e2f00e84dd4d.png)
+
+![django13](https://user-images.githubusercontent.com/92988781/168086602-a1175a77-cd74-43f4-b48f-1bbc8cb4433e.png)
+
+views
+
+![django14](https://user-images.githubusercontent.com/92988781/168086671-4ae9f5ab-1d4e-4bed-bc1b-9740fd443c2a.png)
+
