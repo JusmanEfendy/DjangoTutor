@@ -108,4 +108,26 @@ TAMPILAN
 
 - TEMPLATE EXTANDING
 
- Atau memperluas template
+ Atau memperluas template.
+ 
+ KONSEP EXTANDING
+ 
+ ![django21](https://user-images.githubusercontent.com/92988781/168230194-d34f1127-c224-4779-b5ae-fa5fe6d63599.png)
+
+![django22](https://user-images.githubusercontent.com/92988781/168230447-28415eae-05c9-446c-b56c-3310a852f658.png)
+
+![django23](https://user-images.githubusercontent.com/92988781/168230487-a18c767e-1a97-4b91-815c-321a5a799753.png)
+
+![django24](https://user-images.githubusercontent.com/92988781/168230599-68080c3f-8ca3-4caa-be2a-6fdcb798c5cb.png)
+
+![django25](https://user-images.githubusercontent.com/92988781/168230637-fdebbf34-7459-4106-85d6-74e8399a2adf.png)
+
+
+jadi kita hanya menuliskan content langsung pada file buku, penerbit tidak perlu lagi menuliskan html yang begitu panjang
+
+
+- STATIC FILES
+
+
+
+
