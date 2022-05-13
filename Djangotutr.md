@@ -92,7 +92,7 @@ SUBSTITUTE VARIABLE untuk menampilkan variabel yang dilempar ke views
 
 FILTER untuk memodifikasi variabel yang akan ditamplkan
 
-TAGS untuk melakukan kontrol flow seperti looping, include, kondisi, dll
+TAGS untuk melakukan kontrol flow seperti looping, include, kondisi, dll untuk mengambil file eksternal
 
 VIEWS
 
@@ -105,3 +105,7 @@ TEMPLATE
 TAMPILAN
 
 ![django20](https://user-images.githubusercontent.com/92988781/168224755-15f5a1b0-38b5-43b0-bcc3-422a8061b76d.png)
+
+- TEMPLATE EXTANDING
+
+ Atau memperluas template
