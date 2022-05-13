@@ -86,3 +86,22 @@ tampilan
 
 ![django17](https://user-images.githubusercontent.com/92988781/168091270-7dc02519-f359-480c-b70a-41cac45f359e.png)
 
+- TEMPLATE LANGUAGE
+
+SUBSTITUTE VARIABLE untuk menampilkan variabel yang dilempar ke views 
+
+FILTER untuk memodifikasi variabel yang akan ditamplkan
+
+TAGS untuk melakukan kontrol flow seperti looping, include, kondisi, dll
+
+VIEWS
+
+![django18](https://user-images.githubusercontent.com/92988781/168224612-91c603f5-c83f-4db2-957c-fa356ecb8ac8.png)
+
+TEMPLATE
+
+![django19](https://user-images.githubusercontent.com/92988781/168224685-c142ea98-ffcf-4c77-bd80-874e8a11a7f9.png)
+
+TAMPILAN
+
+![django20](https://user-images.githubusercontent.com/92988781/168224755-15f5a1b0-38b5-43b0-bcc3-422a8061b76d.png)
