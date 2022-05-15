@@ -128,6 +128,6 @@ jadi kita hanya menuliskan content langsung pada file buku, penerbit tidak perlu
 
 - STATIC FILES
 
-
+Static files adalah kumpulan file css, js, dan image, yang berfungsi untuk mempercantik aplikasi yang akan dibuat menggunakan django
 
 
