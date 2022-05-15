@@ -130,4 +130,20 @@ jadi kita hanya menuliskan content langsung pada file buku, penerbit tidak perlu
 
 Static files adalah kumpulan file css, js, dan image, yang berfungsi untuk mempercantik aplikasi yang akan dibuat menggunakan django
 
+berikut settingan untuk static files agar dapat diakses
+
+![django26](https://user-images.githubusercontent.com/92988781/168477111-4e3fa43b-e7ad-4427-b1ff-c52a7f0d78bf.png)
+
+kemudian buat file css untuk mengubah background misalnya
+
+![django27](https://user-images.githubusercontent.com/92988781/168477154-b1a8e324-30ab-42f3-95a7-8365bc5dc88c.png)
+
+terus di panggil file css yang tadi di base.html
+
+![django28](https://user-images.githubusercontent.com/92988781/168477176-bc8e888d-e7f9-4e9d-9ffb-42befb98ca33.png)
+
+dan tampilan warna backgroundnya akan berubah
+
+![django29](https://user-images.githubusercontent.com/92988781/168477227-db7d97b2-df8e-4061-8675-ec2324c78784.png)
+
 
