@@ -217,3 +217,18 @@ model model yang kita buat akan tampil di django admin
 ![django40](https://user-images.githubusercontent.com/92988781/169072970-4832a74d-b46c-4307-9e6f-d189e36ecfc6.png)
 
 
+jika kita mengklik add maka kita diarahkan ke halaman yang dimana berisi form untuk menambahkan data yang sangat berguna dan memudahkan kita melakukan proses CRUD
+
+![django41](https://user-images.githubusercontent.com/92988781/169074759-39704fa2-e011-44ac-86a5-10729452d088.png)
+
+
+![django42](https://user-images.githubusercontent.com/92988781/169079203-e7fb80ae-cd79-48a5-aa0d-c6dc607a27ff.png)
+
+datanya langsung ditampilkan ke dalam database
+
+![django43](https://user-images.githubusercontent.com/92988781/169079492-88a7f720-10f4-473a-b62f-8f7cfe1c5907.png)
+
+otomatis di model kelompok ditambahkan yang sudah dibuat dibagian kelompok_id
+
+![django44](https://user-images.githubusercontent.com/92988781/169080323-46514cee-a21c-4c94-ad13-6d74aa069327.png)
+
