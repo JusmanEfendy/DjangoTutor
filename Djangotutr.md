@@ -243,3 +243,10 @@ program adminnya seperti berikut
 
 
 ![django45](https://user-images.githubusercontent.com/92988781/169095151-4ea281a9-3e02-44f7-9785-af6bd7a6b1cc.png)
+
+
+- ORM (OBJECT-RELATIONAL MAPPING)
+
+teknik yang digunakan dalam program untuk menggunakan basis data relasional sebagai data dengan bentuk objek.
+
+kenapa django menyediakan ORM? karena kode python yang ditulis tidak campur aduk dengan kode sql
