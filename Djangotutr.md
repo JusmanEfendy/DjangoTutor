@@ -173,4 +173,12 @@ proses migrate agar menjadi tabel didatabase
 
 ![django33](https://user-images.githubusercontent.com/92988781/168982593-a9af64ef-b665-425c-a78e-67b45dab3d8d.png)
 
+ini dia tabel yang telah dibuat tadi, buka menggunakan db browser
+
+![django34](https://user-images.githubusercontent.com/92988781/168984720-2990915d-e3da-421d-b728-5e9b0920806b.png)
+
+otomatis field id ditambahkan. saat kita membuat model kita tidak perlu membuat field id dengan primery key karena django yang buatkan.
+
+
+- MODELS: FOREIGN KEY
 
