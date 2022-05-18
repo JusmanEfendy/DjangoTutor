@@ -160,3 +160,7 @@ melakukan inisiasi
 nah ini artinya kita sudah melakukan inisiasi membuat tabel tabel kedalam database db.sqlite3 dan seterusnya kita sudah bisa mengisi data data ke dalam database dan juga kita sudah bisa membuat models.
 
 
+- Models
+
+models merupakan definitif dari database atau representasintabel pada database
+
