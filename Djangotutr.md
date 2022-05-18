@@ -182,3 +182,4 @@ otomatis field id ditambahkan. saat kita membuat model kita tidak perlu membuat 
 
 - MODELS: FOREIGN KEY
 
+foreign key ini berfungsi untuk membuat relasi antar tabel dalam database relasiona
