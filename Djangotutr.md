@@ -147,4 +147,16 @@ dan tampilan warna backgroundnya akan berubah
 ![django29](https://user-images.githubusercontent.com/92988781/168477227-db7d97b2-df8e-4061-8675-ec2324c78784.png)
 
 
+- SETUP DATABASE
+
+setting database
+
+![django31](https://user-images.githubusercontent.com/92988781/168980219-db49565b-41f2-4a2a-9e40-38da324cf122.png)
+
+melakukan inisiasi
+
+![django30](https://user-images.githubusercontent.com/92988781/168979737-3cc61c2c-ef57-4d8e-9241-b470cc8e0c62.png)
+
+nah ini artinya kita sudah melakukan inisiasi membuat tabel tabel kedalam database db.sqlite3 dan seterusnya kita sudah bisa mengisi data data ke dalam database dan juga kita sudah bisa membuat models.
+
 
