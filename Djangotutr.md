@@ -169,7 +169,7 @@ contoh membuat tabel models di django
 ![django32](https://user-images.githubusercontent.com/92988781/168982528-70402c10-e713-4f82-a4f4-30735391be11.png)
 
 
-proses migrate
+proses migrate agar menjadi tabel didatabase 
 
 ![django33](https://user-images.githubusercontent.com/92988781/168982593-a9af64ef-b665-425c-a78e-67b45dab3d8d.png)
 
