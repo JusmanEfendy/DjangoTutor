@@ -250,3 +250,7 @@ program adminnya seperti berikut
 teknik yang digunakan dalam program untuk menggunakan basis data relasional sebagai data dengan bentuk objek.
 
 kenapa django menyediakan ORM? karena kode python yang ditulis tidak campur aduk dengan kode sql
+
+ORM ini betugas sebagai penghubung aplikasi yang dibuat menggunakan database relasional.
+
+
