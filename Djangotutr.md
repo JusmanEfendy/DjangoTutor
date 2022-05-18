@@ -232,3 +232,14 @@ otomatis di model kelompok ditambahkan yang sudah dibuat dibagian kelompok_id
 
 ![django44](https://user-images.githubusercontent.com/92988781/169080323-46514cee-a21c-4c94-ad13-6d74aa069327.png)
 
+
+- MODEL ADMIN
+
+pada tahap ini kita akan melakukan costum sederhan misalnya menampilkan judul buku, pengarang, penerbit, dan lain lain. kita kan menampilkannya dibawah
+
+![django46](https://user-images.githubusercontent.com/92988781/169095203-243e4e07-a25a-42fe-973d-507d0161b2a1.png)
+
+program adminnya seperti berikut
+
+
+![django45](https://user-images.githubusercontent.com/92988781/169095151-4ea281a9-3e02-44f7-9785-af6bd7a6b1cc.png)
