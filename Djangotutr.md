@@ -207,3 +207,13 @@ tampilan awal ketika sudah login
 ![django38](https://user-images.githubusercontent.com/92988781/169066862-7e9156b2-71c1-41ae-bc82-6155f4194825.png)
 
 
+kemudian kita menampilkan models yang kita buat tadi dengan cara memanggil file model ke admin
+
+![django39](https://user-images.githubusercontent.com/92988781/169072548-d1d7ca44-0e20-4cf5-8aa6-ec08343897f0.png)
+
+
+model model yang kita buat akan tampil di django admin
+
+![django40](https://user-images.githubusercontent.com/92988781/169072970-4832a74d-b46c-4307-9e6f-d189e36ecfc6.png)
+
+
