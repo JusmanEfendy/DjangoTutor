@@ -182,4 +182,17 @@ otomatis field id ditambahkan. saat kita membuat model kita tidak perlu membuat 
 
 - MODELS: FOREIGN KEY
 
-foreign key ini berfungsi untuk membuat relasi antar tabel dalam database relasiona
+foreign key ini berfungsi untuk membuat relasi antar tabel dalam database relasional
+
+membuat foreign key
+
+![django35](https://user-images.githubusercontent.com/92988781/169061228-b3675f34-3b10-47a3-8dd6-ed7d12c8e59d.png)
+
+langsung kita migrasi
+
+![django36](https://user-images.githubusercontent.com/92988781/169061349-83f8818a-d934-450b-a6ef-1684fe408729.png)
+
+
+- DJANGO ADMIN
+
+
