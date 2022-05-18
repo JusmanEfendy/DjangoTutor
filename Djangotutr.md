@@ -195,6 +195,8 @@ langsung kita migrasi
 
 - DJANGO ADMIN
 
+django admin ini berfungsi untuk memudahkan kita untuk melakukan proses CRUD sederhana untuk mengelola data pada model yang kita buat.
+
 membuat admin account untuk login ke admin (buatnya di cmd dan ketikkan perintah dibawah
 
 ![django37](https://user-images.githubusercontent.com/92988781/169066615-49fcd8c6-89be-49ab-8429-c0228acace54.png)
