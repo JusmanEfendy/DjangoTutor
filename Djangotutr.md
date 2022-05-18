@@ -195,4 +195,13 @@ langsung kita migrasi
 
 - DJANGO ADMIN
 
+membuat admin account untuk login ke admin (buatnya di cmd dan ketikkan perintah dibawah
+
+![django37](https://user-images.githubusercontent.com/92988781/169066615-49fcd8c6-89be-49ab-8429-c0228acace54.png)
+
+
+tampilan awal ketika sudah login
+
+![django38](https://user-images.githubusercontent.com/92988781/169066862-7e9156b2-71c1-41ae-bc82-6155f4194825.png)
+
 
