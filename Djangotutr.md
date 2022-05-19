@@ -254,3 +254,19 @@ kenapa django menyediakan ORM? karena kode python yang ditulis tidak campur aduk
 ORM ini betugas sebagai penghubung aplikasi yang dibuat menggunakan database relasional.
 
 
+dan hasilnya error, saya ngestuck disini. 
+
+file errornya
+
+![error1](https://user-images.githubusercontent.com/92988781/169199010-975824e9-c0b9-4387-9b30-0d869426de3b.png)
+
+
+
+![error2](https://user-images.githubusercontent.com/92988781/169199031-9c981b0d-69c5-41a5-b01e-34a09bcd830e.png)
+
+![error3](https://user-images.githubusercontent.com/92988781/169199074-aa0f54e5-1fec-4d2f-bf9e-21fb5cfa70df.png)
+
+
+maaf saya akan mencari jalan keluar untuk masalah ini
+
+TERIMA KASIH
