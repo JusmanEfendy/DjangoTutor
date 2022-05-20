@@ -282,4 +282,24 @@ ternyata nama function di view dan di models tidak boleh sama
 
 - MODEL FORM
 
+Form biasanya ditulis dengan HTML. Namun di Django tidak wajib menggunakan HTML, bisa saja menggunakan Models
 
+Selanjutnya Membuat file baru di perpustakaan dengan nama form. Lalu membuat viewsnya untuk menghasilkan seperti gambar dibawah ini
+
+
+![django49](https://user-images.githubusercontent.com/92988781/169459341-1268dbaf-5748-468b-9695-003838806a0f.png)
+
+
+![django52](https://user-images.githubusercontent.com/92988781/169459666-d8a6ee9b-7012-45f1-b252-ab31cf81b216.png)
+
+
+![django50](https://user-images.githubusercontent.com/92988781/169459523-2f179230-15be-4b14-b5f1-15c80b758f61.png)
+
+
+dan tampilannya
+
+![django51](https://user-images.githubusercontent.com/92988781/169459748-22cadeab-16cc-4f59-b6cf-c52667ec2078.png)
+
+
+
+- FORMS : WIDGETS
