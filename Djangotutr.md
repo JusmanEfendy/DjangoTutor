@@ -267,6 +267,19 @@ file errornya
 ![error3](https://user-images.githubusercontent.com/92988781/169199074-aa0f54e5-1fec-4d2f-bf9e-21fb5cfa70df.png)
 
 
-maaf saya akan mencari jalan keluar untuk masalah ini
+AYO PERBAIKI ERROR
 
-TERIMA KASIH
+menurut error yang saya alami dan cara menyelesaikannya 
+
+ternyata nama function di view dan di models tidak boleh sama
+
+
+![django47](https://user-images.githubusercontent.com/92988781/169455942-46451f90-9004-41e9-ba01-72b52ad8581a.png)
+
+
+![django48](https://user-images.githubusercontent.com/92988781/169456071-c1bbee91-3bae-4797-8e62-ed1e7e8ff69e.png)
+
+
+- MODEL FORM
+
+
